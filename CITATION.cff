@@ -7,6 +7,10 @@ authors:
   credit: "create, review, edit and publish the notebook"
 title: "Environmental Data Science Book: A living, open and community-driven online resource to showcase and support the publication of data, research and open-source tools for collaborative, reproducible and transparent Environmental Data Science."
 version: 0.0.1
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.5918931
+    description: The concept DOI for the collection containing all versions of the EDSBook.
 license: "CC-BY-4.0"
 date-released: "2022-01-29"
 keywords:

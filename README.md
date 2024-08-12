@@ -71,3 +71,7 @@ data-science, climate-change, environmental-monitoring, community-project, ecosy
 ## Build, Installation, and Execution Instructions
 
 See the [CONTRIBUTING](https://github.com/alan-turing-institute/environmental-ds-book/blob/master/CONTRIBUTING.md) guidelines. 
+
+## License
+
+All documentation and chapter materials in this repository are made available under the CC-BY-4 and the software are made available under the MIT licence; for more details, see the [LICENSE file](https://github.com/alan-turing-institute/environmental-ds-book/blob/master/LICENSE.md).
