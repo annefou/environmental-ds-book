@@ -55,3 +55,19 @@ The project thanks the [OLS-4 training programme](https://openlifesci.org/ols-4/
 This project is created using the excellent open source [Jupyter Book project](https://jupyterbook.org/) and the [executablebooks/cookiecutter-jupyter-book template](https://github.com/executablebooks/cookiecutter-jupyter-book).
 
 We also acknowledge the template of `README`, `LICENSE` and `community-handbook` guide, in particular the `coworking` section, provided by [the Turing Way project](https://github.com/alan-turing-institute/the-turing-way). 
+
+## Progamming languages
+
+Python 3
+
+## Date created
+
+2021-11-01
+
+## Keyworkds
+
+data-science, climate-change, environmental-monitoring, community-project, ecosystem-modeling
+
+## Build, Installation, and Execution Instructions
+
+See the [CONTRIBUTING](https://github.com/alan-turing-institute/environmental-ds-book/blob/master/CONTRIBUTING.md) guidelines. 
